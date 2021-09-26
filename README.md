@@ -24,7 +24,7 @@
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Computer Science and Engineering.
 - 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
-- 📫 How to reach me: ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)(https://discord.gg/DjKV7m54) , ![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)(https://www.facebook.com/jisan.thecoder)...
+- 📫 How to reach me: <a href="https://discord.gg/DjKV7m54">![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)</a> and <a href="https://www.facebook.com/jisan.thecoder">![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)</a>...
 - ✉️ You can shoot me an email at JisanEAE77@gmail.com! I'll try to respond ASAP.
 
 -----
