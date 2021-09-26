@@ -31,10 +31,13 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 -----
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JisanEAE77&theme=gruvbox&hide_border=true&area=true)
+  
+-----
 
 
 </br>
 </br>
+<p align="center">Enjoy!</p>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
