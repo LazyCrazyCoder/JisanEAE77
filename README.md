@@ -19,8 +19,10 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 </div>
 
-<div align="center">
+-----
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 <p align="center">
 <a href="https://github.com/JisanEAE77">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JisanEAE77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
