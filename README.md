@@ -3,14 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sadman Sakib Jisan </h1>
 
 ### ⚙️ &nbsp;Languages 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) \
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) \
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
-![PHPt](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) \
-![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)\
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) \
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) \![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) \![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
+![PHPt](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) \![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)\![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) \![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
 
 ### 🛠 &nbsp;Tech Stack
 
