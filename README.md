@@ -8,7 +8,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue) 
+![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue.js) 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) \
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20) 
