@@ -30,16 +30,12 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
   
 -----
 <p align="center
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JisanEAE77&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
 </p>
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
----
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 
 </div>
