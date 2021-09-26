@@ -4,7 +4,7 @@
 
 ### ⚙️ &nbsp;Languages 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![PHPt](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,6 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) \
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 
 
 <p align="center"><b>Visitor's Count</b></p>
