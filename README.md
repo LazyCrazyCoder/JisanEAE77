@@ -5,7 +5,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJisanEAE77%7D/count.svg" alt="visitor badge"/></p>
 
-<i>Happy Coding!</i> 😊
+
 
 </div>
 
@@ -30,7 +30,7 @@
 
 </br>
 </br>
-<p align="center">Enjoy!</p>
+<p align="center"><i>Happy Coding!</i> 😊</p>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
