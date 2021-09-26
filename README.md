@@ -29,9 +29,9 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 </p>
   
 -----
-<p align="center
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JisanEAE77&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
-</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
+
 
 </br>
 </br>
