@@ -12,11 +12,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=red
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=FCFF33)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=orange)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=FF5733)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab)
