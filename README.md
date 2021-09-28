@@ -41,7 +41,10 @@
 
 </a>
 </p>
-<p align="center">
+
+-----
+     
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=raihanEXE99&theme=juicyfresh&column=4&margin-w=15&no-frame=true&&margin-h=15" />
 </p>
 
