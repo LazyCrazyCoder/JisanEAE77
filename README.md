@@ -29,19 +29,19 @@
 
 -----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stats:</h2> 
+<p align="center"><img src="https://profile-counter.glitch.me/%7BJisanEAE77%7D/count.svg" alt="visitor badge"/></p>
+
+<h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
 <p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JisanEAE77&theme=highcontrast&theme=highcontrast&hide_border=true"/>
+   </p>
+<p align="center">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JisanEAE77&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
 <a href="https://github.com/JisanEAE77">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JisanEAE77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JisanEAE77&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JisanEAE77&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JisanEAE77&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
+  
 </a>
 </p>
-  
------
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JisanEAE77&theme=gruvbox&hide_border=true&area=true)
   
 -----
 
