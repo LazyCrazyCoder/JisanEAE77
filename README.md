@@ -8,7 +8,21 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![Futter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) ![HTML 5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS 3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![Futter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) ![HTML 5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS 3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat-square&logo=bitbucket)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=Raspberry-Pi)
+
 
 
 <p align="center"><b>Visitor's Count</b></p>
