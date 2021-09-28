@@ -29,8 +29,6 @@
 
 -----
 <div align="center">
-<p align="center"><img src="https://profile-counter.glitch.me/%7BJisanEAE77%7D/count.svg" alt="visitor badge"/></p>
-
 <h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
 <p align="center">
      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JisanEAE77&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -43,7 +41,14 @@
 
 </a>
 </p>
-  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raihanEXE99&theme=juicyfresh&column=4&margin-w=15&no-frame=true&&margin-h=15" />
+</p>
+
+-----
+     
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=raihanEXE99&theme=rogue&hide_border=true&area=true)
+
 -----
 
 
