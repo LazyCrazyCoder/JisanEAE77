@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sadman Sakib Jisan <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Sadman Sakib Jisan <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 ### ⚙️ &nbsp;Languages 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
@@ -34,61 +34,13 @@
 
 -----
 
-- 🌱 I’m currently learning Arduino ...
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 I'm currently studying Computer Science and Engineering.
-- 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
-- 📫 How to reach me: <a href="https://discord.gg/DjKV7m54">![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)</a> and <a href="https://www.facebook.com/jisan.thecoder">![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)</a>...
-- ✉️ You can shoot me an email at JisanEAE77@gmail.com! I'll try to respond ASAP.
+- 🌱 Currently exploring Arduino and beyond...
+- 💡 Passionate about delving into cutting-edge technologies, crafting software solutions, and pulling off quick hacks.
+- 🎓 Pursuing a degree in Computer Science and Engineering.
+- 🌱 Eager to dive deeper into Backend development and Artificial Intelligence.
+- 📫 Let's connect! Reach me on <a href="https://discord.gg/DjKV7m54">![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)</a> or <a href="https://www.facebook.com/jisan.thecoder">![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)</a>...
+- ✉️ Drop me an email at JisanEAE77@gmail.com! I'll get back to you pronto.
 
 -----
 <div align="center">
-<h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
-<p align="center">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JisanEAE77&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
-
-   </p>
-<p align="center">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JisanEAE77&theme=highcontrast&theme=highcontrast&hide_border=true"/>
-<a href="https://github.com/JisanEAE77">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JisanEAE77&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
-
-</a>
-</p>
-
------
-     
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=JisanEAE77&theme=juicyfresh&column=4&margin-w=15&no-frame=true&&margin-h=15" />
-</p>
-
------
-     
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JisanEAE77&theme=rogue&hide_border=true&area=true)
-
------
-
-
-</br>
-</br>
-<p align="center"><i>Happy Coding!</i> 😊</p>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
-</div>
-
------
-
-<p align="center">
-  <img src="https://i.ppy.sh/1ffa9ee3019de39c9cfbed6990da9d0807b0429a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32392f37322f31392f32393732313935663032636535656539363332653362336232636637386561622e6a7067" />
-</p>
-
-
------
-Credits: [JisanEAE77](https://github.com/JisanEAE77)
-
-
-<p align="center">
-  <img src="https://jisaneae77.github.io/JisanEAE77/Sadman_Sakib_Jisan.png" height="500px"/>
-</p>
-
+<h2 style="margin: 5px 10px
